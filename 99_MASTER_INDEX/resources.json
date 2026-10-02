@@ -1,0 +1,1157 @@
+﻿{
+    "library":  "CYBERSECURITY-RESOURCE-LIBRARY",
+    "generated":  "2026-09-20 00:10:07",
+    "total_resources":  115,
+    "resources":  [
+                      {
+                          "ResourceID":  "RES-001",
+                          "Title":  "ShellScripting (2)",
+                          "FileName":  "ShellScripting (2).pdf",
+                          "Category":  "02_LINUX",
+                          "Subcategory":  "Bash",
+                          "RelativePath":  "02_LINUX\\Bash\\ShellScripting (2).pdf",
+                          "SizeMB":  "0.94",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-002",
+                          "Title":  "Kali GPT_ Your New Offensive Security Wingman 🐉🔥",
+                          "FileName":  "Kali GPT_ Your New Offensive Security Wingman 🐉🔥.pdf",
+                          "Category":  "02_LINUX",
+                          "Subcategory":  "Kali_Linux",
+                          "RelativePath":  "02_LINUX\\Kali_Linux\\Kali GPT_ Your New Offensive Security Wingman 🐉🔥.pdf",
+                          "SizeMB":  "0.05",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-003",
+                          "Title":  "KALI LINUX",
+                          "FileName":  "KALI LINUX.pdf",
+                          "Category":  "02_LINUX",
+                          "Subcategory":  "Kali_Linux",
+                          "RelativePath":  "02_LINUX\\Kali_Linux\\KALI LINUX.pdf",
+                          "SizeMB":  "0.54",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-004",
+                          "Title":  "Kali_Linux_0_to_Ethical_Hacking_80_Module_Checklist (2)",
+                          "FileName":  "Kali_Linux_0_to_Ethical_Hacking_80_Module_Checklist (2).pdf",
+                          "Category":  "02_LINUX",
+                          "Subcategory":  "Kali_Linux",
+                          "RelativePath":  "02_LINUX\\Kali_Linux\\Kali_Linux_0_to_Ethical_Hacking_80_Module_Checklist (2).pdf",
+                          "SizeMB":  "0.03",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-005",
+                          "Title":  "Kali_Linux_to_Ethical_Hacking_Roadmap",
+                          "FileName":  "Kali_Linux_to_Ethical_Hacking_Roadmap.pdf",
+                          "Category":  "02_LINUX",
+                          "Subcategory":  "Kali_Linux",
+                          "RelativePath":  "02_LINUX\\Kali_Linux\\Kali_Linux_to_Ethical_Hacking_Roadmap.pdf",
+                          "SizeMB":  "0.09",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-006",
+                          "Title":  "Linux -1",
+                          "FileName":  "Linux -1.pdf",
+                          "Category":  "02_LINUX",
+                          "Subcategory":  "Linux_Command_Line",
+                          "RelativePath":  "02_LINUX\\Linux_Command_Line\\Linux -1.pdf",
+                          "SizeMB":  "0.15",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-007",
+                          "Title":  "Linux",
+                          "FileName":  "Linux.pdf",
+                          "Category":  "02_LINUX",
+                          "Subcategory":  "Linux_Command_Line",
+                          "RelativePath":  "02_LINUX\\Linux_Command_Line\\Linux.pdf",
+                          "SizeMB":  "24.87",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-008",
+                          "Title":  "Linux-Cheat-sheet",
+                          "FileName":  "Linux-Cheat-sheet.pdf",
+                          "Category":  "02_LINUX",
+                          "Subcategory":  "Linux_Command_Line",
+                          "RelativePath":  "02_LINUX\\Linux_Command_Line\\Linux-Cheat-sheet.pdf",
+                          "SizeMB":  "5.73",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-009",
+                          "Title":  "wc",
+                          "FileName":  "wc.pdf",
+                          "Category":  "02_LINUX",
+                          "Subcategory":  "Linux_Command_Line",
+                          "RelativePath":  "02_LINUX\\Linux_Command_Line\\wc.pdf",
+                          "SizeMB":  "0.23",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-010",
+                          "Title":  "LINUX FOR CYBER SECURITY",
+                          "FileName":  "LINUX FOR CYBER SECURITY.pdf",
+                          "Category":  "02_LINUX",
+                          "Subcategory":  "Linux_Fundamentals",
+                          "RelativePath":  "02_LINUX\\Linux_Fundamentals\\LINUX FOR CYBER SECURITY.pdf",
+                          "SizeMB":  "14.9",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-011",
+                          "Title":  "Linux server Automation",
+                          "FileName":  "Linux server Automation.pdf",
+                          "Category":  "02_LINUX",
+                          "Subcategory":  "Linux_Fundamentals",
+                          "RelativePath":  "02_LINUX\\Linux_Fundamentals\\Linux server Automation.pdf",
+                          "SizeMB":  "4.3",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-012",
+                          "Title":  "Linux",
+                          "FileName":  "Linux.pdf",
+                          "Category":  "02_LINUX",
+                          "Subcategory":  "Linux_Fundamentals",
+                          "RelativePath":  "02_LINUX\\Linux_Fundamentals\\Linux.pdf",
+                          "SizeMB":  "1.56",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-013",
+                          "Title":  "Linux_Pentesting_Fundamentals",
+                          "FileName":  "Linux_Pentesting_Fundamentals.pdf",
+                          "Category":  "02_LINUX",
+                          "Subcategory":  "Linux_Fundamentals",
+                          "RelativePath":  "02_LINUX\\Linux_Fundamentals\\Linux_Pentesting_Fundamentals.pdf",
+                          "SizeMB":  "1.99",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-014",
+                          "Title":  "Basic Git Commands (For managing repositories)",
+                          "FileName":  "Basic Git Commands (For managing repositories).pdf",
+                          "Category":  "03_NETWORKING",
+                          "Subcategory":  "Networking_Fundamentals",
+                          "RelativePath":  "03_NETWORKING\\Networking_Fundamentals\\Basic Git Commands (For managing repositories).pdf",
+                          "SizeMB":  "0.5",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-015",
+                          "Title":  "Network_Security_Part3_Cheatsheets",
+                          "FileName":  "Network_Security_Part3_Cheatsheets.pdf",
+                          "Category":  "03_NETWORKING",
+                          "Subcategory":  "Networking_Fundamentals",
+                          "RelativePath":  "03_NETWORKING\\Networking_Fundamentals\\Network_Security_Part3_Cheatsheets.pdf",
+                          "SizeMB":  "0.01",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-016",
+                          "Title":  "Network_Security_Starter_Plan_Expanded",
+                          "FileName":  "Network_Security_Starter_Plan_Expanded.pdf",
+                          "Category":  "03_NETWORKING",
+                          "Subcategory":  "Networking_Fundamentals",
+                          "RelativePath":  "03_NETWORKING\\Networking_Fundamentals\\Network_Security_Starter_Plan_Expanded.pdf",
+                          "SizeMB":  "1.44",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-017",
+                          "Title":  "Networking Essentials for Cybersecurity",
+                          "FileName":  "Networking Essentials for Cybersecurity.pdf",
+                          "Category":  "03_NETWORKING",
+                          "Subcategory":  "Networking_Fundamentals",
+                          "RelativePath":  "03_NETWORKING\\Networking_Fundamentals\\Networking Essentials for Cybersecurity.pdf",
+                          "SizeMB":  "6.54",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-018",
+                          "Title":  "Networking For Beginners",
+                          "FileName":  "Networking For Beginners.pdf",
+                          "Category":  "03_NETWORKING",
+                          "Subcategory":  "Networking_Fundamentals",
+                          "RelativePath":  "03_NETWORKING\\Networking_Fundamentals\\Networking For Beginners.pdf",
+                          "SizeMB":  "2.98",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-019",
+                          "Title":  "Networking",
+                          "FileName":  "Networking.pdf",
+                          "Category":  "03_NETWORKING",
+                          "Subcategory":  "Networking_Fundamentals",
+                          "RelativePath":  "03_NETWORKING\\Networking_Fundamentals\\Networking.pdf",
+                          "SizeMB":  "3.01",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-020",
+                          "Title":  "OSI-MODEL-Notes-Beginners",
+                          "FileName":  "OSI-MODEL-Notes-Beginners.pdf",
+                          "Category":  "03_NETWORKING",
+                          "Subcategory":  "Networking_Fundamentals",
+                          "RelativePath":  "03_NETWORKING\\Networking_Fundamentals\\OSI-MODEL-Notes-Beginners.pdf",
+                          "SizeMB":  "18.59",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-021",
+                          "Title":  "Wireshark ",
+                          "FileName":  "Wireshark .pdf",
+                          "Category":  "03_NETWORKING",
+                          "Subcategory":  "Wireshark",
+                          "RelativePath":  "03_NETWORKING\\Wireshark\\Wireshark .pdf",
+                          "SizeMB":  "3.48",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-022",
+                          "Title":  "Wireshark",
+                          "FileName":  "Wireshark.pdf",
+                          "Category":  "03_NETWORKING",
+                          "Subcategory":  "Wireshark",
+                          "RelativePath":  "03_NETWORKING\\Wireshark\\Wireshark.pdf",
+                          "SizeMB":  "1.62",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-023",
+                          "Title":  "bug bounty ",
+                          "FileName":  "bug bounty .pdf",
+                          "Category":  "04_WEB_SECURITY",
+                          "Subcategory":  "Web_Application_Security",
+                          "RelativePath":  "04_WEB_SECURITY\\Web_Application_Security\\bug bounty .pdf",
+                          "SizeMB":  "1.5",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-024",
+                          "Title":  "bug bounty automation ",
+                          "FileName":  "bug bounty automation .pdf",
+                          "Category":  "04_WEB_SECURITY",
+                          "Subcategory":  "Web_Application_Security",
+                          "RelativePath":  "04_WEB_SECURITY\\Web_Application_Security\\bug bounty automation .pdf",
+                          "SizeMB":  "1.04",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-025",
+                          "Title":  "bug bounty hunting guide ",
+                          "FileName":  "bug bounty hunting guide .pdf",
+                          "Category":  "04_WEB_SECURITY",
+                          "Subcategory":  "Web_Application_Security",
+                          "RelativePath":  "04_WEB_SECURITY\\Web_Application_Security\\bug bounty hunting guide .pdf",
+                          "SizeMB":  "4.37",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-026",
+                          "Title":  "SQLI",
+                          "FileName":  "SQLI.pdf",
+                          "Category":  "04_WEB_SECURITY",
+                          "Subcategory":  "Web_Application_Security",
+                          "RelativePath":  "04_WEB_SECURITY\\Web_Application_Security\\SQLI.pdf",
+                          "SizeMB":  "0.73",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-027",
+                          "Title":  "Coding_for_Cybersecurity_6Week_Plan_2026",
+                          "FileName":  "Coding_for_Cybersecurity_6Week_Plan_2026.pdf",
+                          "Category":  "05_ETHICAL_HACKING",
+                          "Subcategory":  "Exploitation_Theory",
+                          "RelativePath":  "05_ETHICAL_HACKING\\Exploitation_Theory\\Coding_for_Cybersecurity_6Week_Plan_2026.pdf",
+                          "SizeMB":  "0.01",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-028",
+                          "Title":  "Cybersecurity_Notes_Cheatsheet_2026",
+                          "FileName":  "Cybersecurity_Notes_Cheatsheet_2026.pdf",
+                          "Category":  "05_ETHICAL_HACKING",
+                          "Subcategory":  "Exploitation_Theory",
+                          "RelativePath":  "05_ETHICAL_HACKING\\Exploitation_Theory\\Cybersecurity_Notes_Cheatsheet_2026.pdf",
+                          "SizeMB":  "0.01",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-029",
+                          "Title":  "Cybersecurity_Roadmap_Sudheer",
+                          "FileName":  "Cybersecurity_Roadmap_Sudheer.pdf",
+                          "Category":  "05_ETHICAL_HACKING",
+                          "Subcategory":  "Exploitation_Theory",
+                          "RelativePath":  "05_ETHICAL_HACKING\\Exploitation_Theory\\Cybersecurity_Roadmap_Sudheer.pdf",
+                          "SizeMB":  "0.01",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-030",
+                          "Title":  "Cybersecurity_Troubleshooting_Roadmap",
+                          "FileName":  "Cybersecurity_Troubleshooting_Roadmap.pdf",
+                          "Category":  "05_ETHICAL_HACKING",
+                          "Subcategory":  "Exploitation_Theory",
+                          "RelativePath":  "05_ETHICAL_HACKING\\Exploitation_Theory\\Cybersecurity_Troubleshooting_Roadmap.pdf",
+                          "SizeMB":  "0",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-031",
+                          "Title":  "HACKING FOR BEGINNER TO EXPERT",
+                          "FileName":  "HACKING FOR BEGINNER TO EXPERT.pdf",
+                          "Category":  "05_ETHICAL_HACKING",
+                          "Subcategory":  "Exploitation_Theory",
+                          "RelativePath":  "05_ETHICAL_HACKING\\Exploitation_Theory\\HACKING FOR BEGINNER TO EXPERT.pdf",
+                          "SizeMB":  "0.4",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-032",
+                          "Title":  "Hacking with AI Guide BY SUDHEER \u0026 RAJINTH",
+                          "FileName":  "Hacking with AI Guide BY SUDHEER \u0026 RAJINTH.pdf",
+                          "Category":  "05_ETHICAL_HACKING",
+                          "Subcategory":  "Exploitation_Theory",
+                          "RelativePath":  "05_ETHICAL_HACKING\\Exploitation_Theory\\Hacking with AI Guide BY SUDHEER \u0026 RAJINTH.pdf",
+                          "SizeMB":  "7.3",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-033",
+                          "Title":  "Pentesting ",
+                          "FileName":  "Pentesting .pdf",
+                          "Category":  "05_ETHICAL_HACKING",
+                          "Subcategory":  "Exploitation_Theory",
+                          "RelativePath":  "05_ETHICAL_HACKING\\Exploitation_Theory\\Pentesting .pdf",
+                          "SizeMB":  "40.2",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-034",
+                          "Title":  "RED TEAM EXPERT",
+                          "FileName":  "RED TEAM EXPERT.pdf",
+                          "Category":  "05_ETHICAL_HACKING",
+                          "Subcategory":  "Exploitation_Theory",
+                          "RelativePath":  "05_ETHICAL_HACKING\\Exploitation_Theory\\RED TEAM EXPERT.pdf",
+                          "SizeMB":  "7.1",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-035",
+                          "Title":  "WIFI HACKING NOTES",
+                          "FileName":  "WIFI HACKING NOTES.pdf",
+                          "Category":  "05_ETHICAL_HACKING",
+                          "Subcategory":  "Exploitation_Theory",
+                          "RelativePath":  "05_ETHICAL_HACKING\\Exploitation_Theory\\WIFI HACKING NOTES.pdf",
+                          "SizeMB":  "1.13",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-036",
+                          "Title":  "Windows CMD_ Blue \u0026 Red Team Cheatsheet",
+                          "FileName":  "Windows CMD_ Blue \u0026 Red Team Cheatsheet.pdf",
+                          "Category":  "05_ETHICAL_HACKING",
+                          "Subcategory":  "Exploitation_Theory",
+                          "RelativePath":  "05_ETHICAL_HACKING\\Exploitation_Theory\\Windows CMD_ Blue \u0026 Red Team Cheatsheet.pdf",
+                          "SizeMB":  "0.29",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-037",
+                          "Title":  "WIRELESS PENETRATION TESTING",
+                          "FileName":  "WIRELESS PENETRATION TESTING.pdf",
+                          "Category":  "05_ETHICAL_HACKING",
+                          "Subcategory":  "Exploitation_Theory",
+                          "RelativePath":  "05_ETHICAL_HACKING\\Exploitation_Theory\\WIRELESS PENETRATION TESTING.pdf",
+                          "SizeMB":  "1.33",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-038",
+                          "Title":  "Burp suite ",
+                          "FileName":  "Burp suite .pdf",
+                          "Category":  "06_SECURITY_TOOLS",
+                          "Subcategory":  "Burp_Suite",
+                          "RelativePath":  "06_SECURITY_TOOLS\\Burp_Suite\\Burp suite .pdf",
+                          "SizeMB":  "3.75",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-039",
+                          "Title":  "Burpsuite for beginners",
+                          "FileName":  "Burpsuite for beginners.pdf",
+                          "Category":  "06_SECURITY_TOOLS",
+                          "Subcategory":  "Burp_Suite",
+                          "RelativePath":  "06_SECURITY_TOOLS\\Burp_Suite\\Burpsuite for beginners.pdf",
+                          "SizeMB":  "5.21",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-040",
+                          "Title":  "Burpsuite",
+                          "FileName":  "Burpsuite.pdf",
+                          "Category":  "06_SECURITY_TOOLS",
+                          "Subcategory":  "Burp_Suite",
+                          "RelativePath":  "06_SECURITY_TOOLS\\Burp_Suite\\Burpsuite.pdf",
+                          "SizeMB":  "3.75",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-041",
+                          "Title":  "Hydra_ Pentesting Guide",
+                          "FileName":  "Hydra_ Pentesting Guide.pdf",
+                          "Category":  "06_SECURITY_TOOLS",
+                          "Subcategory":  "Hydra",
+                          "RelativePath":  "06_SECURITY_TOOLS\\Hydra\\Hydra_ Pentesting Guide.pdf",
+                          "SizeMB":  "2.52",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-042",
+                          "Title":  "Nmap For Password Cracking",
+                          "FileName":  "Nmap For Password Cracking.pdf",
+                          "Category":  "06_SECURITY_TOOLS",
+                          "Subcategory":  "Nmap",
+                          "RelativePath":  "06_SECURITY_TOOLS\\Nmap\\Nmap For Password Cracking.pdf",
+                          "SizeMB":  "0.85",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-043",
+                          "Title":  "Nmap",
+                          "FileName":  "Nmap.pdf",
+                          "Category":  "06_SECURITY_TOOLS",
+                          "Subcategory":  "Nmap",
+                          "RelativePath":  "06_SECURITY_TOOLS\\Nmap\\Nmap.pdf",
+                          "SizeMB":  "1.36",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-044",
+                          "Title":  "Nmap_ Host Discovery",
+                          "FileName":  "Nmap_ Host Discovery.pdf",
+                          "Category":  "06_SECURITY_TOOLS",
+                          "Subcategory":  "Nmap",
+                          "RelativePath":  "06_SECURITY_TOOLS\\Nmap\\Nmap_ Host Discovery.pdf",
+                          "SizeMB":  "1.7",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-045",
+                          "Title":  "Nmap_ Vulnerability Scan Guide",
+                          "FileName":  "Nmap_ Vulnerability Scan Guide.pdf",
+                          "Category":  "06_SECURITY_TOOLS",
+                          "Subcategory":  "Nmap",
+                          "RelativePath":  "06_SECURITY_TOOLS\\Nmap\\Nmap_ Vulnerability Scan Guide.pdf",
+                          "SizeMB":  "2.97",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-046",
+                          "Title":  "Nmap_2",
+                          "FileName":  "Nmap_2.pdf",
+                          "Category":  "06_SECURITY_TOOLS",
+                          "Subcategory":  "Nmap",
+                          "RelativePath":  "06_SECURITY_TOOLS\\Nmap\\Nmap_2.pdf",
+                          "SizeMB":  "3.05",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-047",
+                          "Title":  "Nmap-1",
+                          "FileName":  "Nmap-1.pdf",
+                          "Category":  "06_SECURITY_TOOLS",
+                          "Subcategory":  "Nmap",
+                          "RelativePath":  "06_SECURITY_TOOLS\\Nmap\\Nmap-1.pdf",
+                          "SizeMB":  "0.36",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-048",
+                          "Title":  "Aircrack ng",
+                          "FileName":  "Aircrack ng.pdf",
+                          "Category":  "06_SECURITY_TOOLS",
+                          "Subcategory":  "Other_Tools",
+                          "RelativePath":  "06_SECURITY_TOOLS\\Other_Tools\\Aircrack ng.pdf",
+                          "SizeMB":  "0.52",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-049",
+                          "Title":  "Aircrack-ng",
+                          "FileName":  "Aircrack-ng.pdf",
+                          "Category":  "06_SECURITY_TOOLS",
+                          "Subcategory":  "Other_Tools",
+                          "RelativePath":  "06_SECURITY_TOOLS\\Other_Tools\\Aircrack-ng.pdf",
+                          "SizeMB":  "0.66",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-050",
+                          "Title":  "DDoS",
+                          "FileName":  "DDoS.pdf",
+                          "Category":  "06_SECURITY_TOOLS",
+                          "Subcategory":  "Other_Tools",
+                          "RelativePath":  "06_SECURITY_TOOLS\\Other_Tools\\DDoS.pdf",
+                          "SizeMB":  "2.19",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-051",
+                          "Title":  "Fortigate",
+                          "FileName":  "Fortigate.pdf",
+                          "Category":  "06_SECURITY_TOOLS",
+                          "Subcategory":  "Other_Tools",
+                          "RelativePath":  "06_SECURITY_TOOLS\\Other_Tools\\Fortigate.pdf",
+                          "SizeMB":  "6.53",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-052",
+                          "Title":  "John",
+                          "FileName":  "John.pdf",
+                          "Category":  "06_SECURITY_TOOLS",
+                          "Subcategory":  "Other_Tools",
+                          "RelativePath":  "06_SECURITY_TOOLS\\Other_Tools\\John.pdf",
+                          "SizeMB":  "1.53",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-053",
+                          "Title":  "Medusa -1",
+                          "FileName":  "Medusa -1.pdf",
+                          "Category":  "06_SECURITY_TOOLS",
+                          "Subcategory":  "Other_Tools",
+                          "RelativePath":  "06_SECURITY_TOOLS\\Other_Tools\\Medusa -1.pdf",
+                          "SizeMB":  "2.24",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-054",
+                          "Title":  "Medusa",
+                          "FileName":  "Medusa.pdf",
+                          "Category":  "06_SECURITY_TOOLS",
+                          "Subcategory":  "Other_Tools",
+                          "RelativePath":  "06_SECURITY_TOOLS\\Other_Tools\\Medusa.pdf",
+                          "SizeMB":  "2.74",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-055",
+                          "Title":  "Owasp zap",
+                          "FileName":  "Owasp zap.pdf",
+                          "Category":  "06_SECURITY_TOOLS",
+                          "Subcategory":  "Other_Tools",
+                          "RelativePath":  "06_SECURITY_TOOLS\\Other_Tools\\Owasp zap.pdf",
+                          "SizeMB":  "3.74",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-056",
+                          "Title":  "Phishing Attack_ Pentesting Guide",
+                          "FileName":  "Phishing Attack_ Pentesting Guide.pdf",
+                          "Category":  "06_SECURITY_TOOLS",
+                          "Subcategory":  "Other_Tools",
+                          "RelativePath":  "06_SECURITY_TOOLS\\Other_Tools\\Phishing Attack_ Pentesting Guide.pdf",
+                          "SizeMB":  "1.62",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-057",
+                          "Title":  "PYTHON INSTALLATION",
+                          "FileName":  "PYTHON INSTALLATION.pdf",
+                          "Category":  "06_SECURITY_TOOLS",
+                          "Subcategory":  "Other_Tools",
+                          "RelativePath":  "06_SECURITY_TOOLS\\Other_Tools\\PYTHON INSTALLATION.pdf",
+                          "SizeMB":  "0.78",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-058",
+                          "Title":  "Tools",
+                          "FileName":  "Tools.pdf",
+                          "Category":  "06_SECURITY_TOOLS",
+                          "Subcategory":  "Other_Tools",
+                          "RelativePath":  "06_SECURITY_TOOLS\\Other_Tools\\Tools.pdf",
+                          "SizeMB":  "0.29",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-059",
+                          "Title":  "How-to-Triage_SecurityAlerts-as-SOCAnalyst",
+                          "FileName":  "How-to-Triage_SecurityAlerts-as-SOCAnalyst.pdf",
+                          "Category":  "07_SOC_ANALYST",
+                          "Subcategory":  "Alert_Triage",
+                          "RelativePath":  "07_SOC_ANALYST\\Alert_Triage\\How-to-Triage_SecurityAlerts-as-SOCAnalyst.pdf",
+                          "SizeMB":  "19.47",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-060",
+                          "Title":  "SocL1 Triage in movie-style ",
+                          "FileName":  "SocL1 Triage in movie-style .pdf",
+                          "Category":  "07_SOC_ANALYST",
+                          "Subcategory":  "Alert_Triage",
+                          "RelativePath":  "07_SOC_ANALYST\\Alert_Triage\\SocL1 Triage in movie-style .pdf",
+                          "SizeMB":  "23.29",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-061",
+                          "Title":  "100 SOC INVESTIGATION",
+                          "FileName":  "100 SOC INVESTIGATION.pdf",
+                          "Category":  "07_SOC_ANALYST",
+                          "Subcategory":  "Incident_Response",
+                          "RelativePath":  "07_SOC_ANALYST\\Incident_Response\\100 SOC INVESTIGATION.pdf",
+                          "SizeMB":  "1.21",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-062",
+                          "Title":  "Investigation-timeline-SocNotes",
+                          "FileName":  "Investigation-timeline-SocNotes.pdf",
+                          "Category":  "07_SOC_ANALYST",
+                          "Subcategory":  "Incident_Response",
+                          "RelativePath":  "07_SOC_ANALYST\\Incident_Response\\Investigation-timeline-SocNotes.pdf",
+                          "SizeMB":  "8.28",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-063",
+                          "Title":  "Spl_Queries_Top_for_SocAnalysts_Notes",
+                          "FileName":  "Spl_Queries_Top_for_SocAnalysts_Notes.pdf",
+                          "Category":  "07_SOC_ANALYST",
+                          "Subcategory":  "Log_Analysis",
+                          "RelativePath":  "07_SOC_ANALYST\\Log_Analysis\\Spl_Queries_Top_for_SocAnalysts_Notes.pdf",
+                          "SizeMB":  "12.54",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-064",
+                          "Title":  "A Day in SOC L1",
+                          "FileName":  "A Day in SOC L1.pdf",
+                          "Category":  "07_SOC_ANALYST",
+                          "Subcategory":  "SOC_Fundamentals",
+                          "RelativePath":  "07_SOC_ANALYST\\SOC_Fundamentals\\A Day in SOC L1.pdf",
+                          "SizeMB":  "1.38",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-065",
+                          "Title":  "Attacks in SOC",
+                          "FileName":  "Attacks in SOC.pdf",
+                          "Category":  "07_SOC_ANALYST",
+                          "Subcategory":  "SOC_Fundamentals",
+                          "RelativePath":  "07_SOC_ANALYST\\SOC_Fundamentals\\Attacks in SOC.pdf",
+                          "SizeMB":  "0.57",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-066",
+                          "Title":  "Blue Team Handbook SOC",
+                          "FileName":  "Blue Team Handbook SOC.pdf",
+                          "Category":  "07_SOC_ANALYST",
+                          "Subcategory":  "SOC_Fundamentals",
+                          "RelativePath":  "07_SOC_ANALYST\\SOC_Fundamentals\\Blue Team Handbook SOC.pdf",
+                          "SizeMB":  "2.1",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-067",
+                          "Title":  "Firewall_and_Network_Security_in_SOC",
+                          "FileName":  "Firewall_and_Network_Security_in_SOC.pdf",
+                          "Category":  "07_SOC_ANALYST",
+                          "Subcategory":  "SOC_Fundamentals",
+                          "RelativePath":  "07_SOC_ANALYST\\SOC_Fundamentals\\Firewall_and_Network_Security_in_SOC.pdf",
+                          "SizeMB":  "0.61",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-068",
+                          "Title":  "LinuxNotes-For-SocAnalyst",
+                          "FileName":  "LinuxNotes-For-SocAnalyst.pdf",
+                          "Category":  "07_SOC_ANALYST",
+                          "Subcategory":  "SOC_Fundamentals",
+                          "RelativePath":  "07_SOC_ANALYST\\SOC_Fundamentals\\LinuxNotes-For-SocAnalyst.pdf",
+                          "SizeMB":  "7.12",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-069",
+                          "Title":  "SOAR \u0026 EDRpdf",
+                          "FileName":  "SOAR \u0026 EDRpdf.pdf",
+                          "Category":  "07_SOC_ANALYST",
+                          "Subcategory":  "SOC_Fundamentals",
+                          "RelativePath":  "07_SOC_ANALYST\\SOC_Fundamentals\\SOAR \u0026 EDRpdf.pdf",
+                          "SizeMB":  "1.4",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-070",
+                          "Title":  "SOC Analyst complete learning and tools handbook",
+                          "FileName":  "SOC Analyst complete learning and tools handbook.pdf",
+                          "Category":  "07_SOC_ANALYST",
+                          "Subcategory":  "SOC_Fundamentals",
+                          "RelativePath":  "07_SOC_ANALYST\\SOC_Fundamentals\\SOC Analyst complete learning and tools handbook.pdf",
+                          "SizeMB":  "0.07",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-071",
+                          "Title":  "SOC fundamentals ",
+                          "FileName":  "SOC fundamentals .pdf",
+                          "Category":  "07_SOC_ANALYST",
+                          "Subcategory":  "SOC_Fundamentals",
+                          "RelativePath":  "07_SOC_ANALYST\\SOC_Fundamentals\\SOC fundamentals .pdf",
+                          "SizeMB":  "0.97",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-072",
+                          "Title":  "SOC-1",
+                          "FileName":  "SOC-1.pdf",
+                          "Category":  "07_SOC_ANALYST",
+                          "Subcategory":  "SOC_Fundamentals",
+                          "RelativePath":  "07_SOC_ANALYST\\SOC_Fundamentals\\SOC-1.pdf",
+                          "SizeMB":  "4.87",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-073",
+                          "Title":  "SocAnalyst-15days_Notes",
+                          "FileName":  "SocAnalyst-15days_Notes.pdf",
+                          "Category":  "07_SOC_ANALYST",
+                          "Subcategory":  "SOC_Fundamentals",
+                          "RelativePath":  "07_SOC_ANALYST\\SOC_Fundamentals\\SocAnalyst-15days_Notes.pdf",
+                          "SizeMB":  "12.72",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-074",
+                          "Title":  "SocAnalyst-Toolkit-Notes",
+                          "FileName":  "SocAnalyst-Toolkit-Notes.pdf",
+                          "Category":  "07_SOC_ANALYST",
+                          "Subcategory":  "SOC_Fundamentals",
+                          "RelativePath":  "07_SOC_ANALYST\\SOC_Fundamentals\\SocAnalyst-Toolkit-Notes.pdf",
+                          "SizeMB":  "9.86",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-075",
+                          "Title":  "Windows-fundamentals-SOCNeeds ",
+                          "FileName":  "Windows-fundamentals-SOCNeeds .pdf",
+                          "Category":  "07_SOC_ANALYST",
+                          "Subcategory":  "SOC_Fundamentals",
+                          "RelativePath":  "07_SOC_ANALYST\\SOC_Fundamentals\\Windows-fundamentals-SOCNeeds .pdf",
+                          "SizeMB":  "9.1",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-076",
+                          "Title":  "Command\u0026Control(c2)Traffic-SocNotes",
+                          "FileName":  "Command\u0026Control(c2)Traffic-SocNotes.pdf",
+                          "Category":  "07_SOC_ANALYST",
+                          "Subcategory":  "Threat_Detection",
+                          "RelativePath":  "07_SOC_ANALYST\\Threat_Detection\\Command\u0026Control(c2)Traffic-SocNotes.pdf",
+                          "SizeMB":  "9.62",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-077",
+                          "Title":  "Endpoint Detection and Response (EDR)Tools",
+                          "FileName":  "Endpoint Detection and Response (EDR)Tools.pdf",
+                          "Category":  "07_SOC_ANALYST",
+                          "Subcategory":  "Threat_Detection",
+                          "RelativePath":  "07_SOC_ANALYST\\Threat_Detection\\Endpoint Detection and Response (EDR)Tools.pdf",
+                          "SizeMB":  "0.31",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-078",
+                          "Title":  "LateralMovement-Detection- Soc-Notes",
+                          "FileName":  "LateralMovement-Detection- Soc-Notes.pdf",
+                          "Category":  "07_SOC_ANALYST",
+                          "Subcategory":  "Threat_Detection",
+                          "RelativePath":  "07_SOC_ANALYST\\Threat_Detection\\LateralMovement-Detection- Soc-Notes.pdf",
+                          "SizeMB":  "8.47",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-079",
+                          "Title":  "microsoft Sentinel zero to hero notes",
+                          "FileName":  "microsoft Sentinel zero to hero notes.pdf",
+                          "Category":  "08_SIEM_DETECTION",
+                          "Subcategory":  "SIEM_Fundamentals",
+                          "RelativePath":  "08_SIEM_DETECTION\\SIEM_Fundamentals\\microsoft Sentinel zero to hero notes.pdf",
+                          "SizeMB":  "18.07",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-080",
+                          "Title":  "SIEM FOR BEGINNERS",
+                          "FileName":  "SIEM FOR BEGINNERS.pdf",
+                          "Category":  "08_SIEM_DETECTION",
+                          "Subcategory":  "SIEM_Fundamentals",
+                          "RelativePath":  "08_SIEM_DETECTION\\SIEM_Fundamentals\\SIEM FOR BEGINNERS.pdf",
+                          "SizeMB":  "0.43",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-081",
+                          "Title":  "Splunk Queries for SOC Analyst",
+                          "FileName":  "Splunk Queries for SOC Analyst.pdf",
+                          "Category":  "08_SIEM_DETECTION",
+                          "Subcategory":  "Splunk",
+                          "RelativePath":  "08_SIEM_DETECTION\\Splunk\\Splunk Queries for SOC Analyst.pdf",
+                          "SizeMB":  "0.17",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-082",
+                          "Title":  "Splunk_LogAnalysis_Projects",
+                          "FileName":  "Splunk_LogAnalysis_Projects.pdf",
+                          "Category":  "08_SIEM_DETECTION",
+                          "Subcategory":  "Splunk",
+                          "RelativePath":  "08_SIEM_DETECTION\\Splunk\\Splunk_LogAnalysis_Projects.pdf",
+                          "SizeMB":  "16.08",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-083",
+                          "Title":  "Autopsy",
+                          "FileName":  "Autopsy.pdf",
+                          "Category":  "10_DIGITAL_FORENSICS_DFIR",
+                          "Subcategory":  "Digital_Forensics",
+                          "RelativePath":  "10_DIGITAL_FORENSICS_DFIR\\Digital_Forensics\\Autopsy.pdf",
+                          "SizeMB":  "3.41",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-084",
+                          "Title":  "Digital_Forensics-Notes",
+                          "FileName":  "Digital_Forensics-Notes.pdf",
+                          "Category":  "10_DIGITAL_FORENSICS_DFIR",
+                          "Subcategory":  "Digital_Forensics",
+                          "RelativePath":  "10_DIGITAL_FORENSICS_DFIR\\Digital_Forensics\\Digital_Forensics-Notes.pdf",
+                          "SizeMB":  "10.43",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-085",
+                          "Title":  "Malware_Analysis-Home_Lab-Notes",
+                          "FileName":  "Malware_Analysis-Home_Lab-Notes.pdf",
+                          "Category":  "11_MALWARE_ANALYSIS",
+                          "Subcategory":  "Static_Analysis",
+                          "RelativePath":  "11_MALWARE_ANALYSIS\\Static_Analysis\\Malware_Analysis-Home_Lab-Notes.pdf",
+                          "SizeMB":  "11.98",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-086",
+                          "Title":  "Malware-investigation-Soc_Notes",
+                          "FileName":  "Malware-investigation-Soc_Notes.pdf",
+                          "Category":  "11_MALWARE_ANALYSIS",
+                          "Subcategory":  "Static_Analysis",
+                          "RelativePath":  "11_MALWARE_ANALYSIS\\Static_Analysis\\Malware-investigation-Soc_Notes.pdf",
+                          "SizeMB":  "10.32",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-087",
+                          "Title":  "IOC\u0026IOA-SocNotes",
+                          "FileName":  "IOC\u0026IOA-SocNotes.pdf",
+                          "Category":  "12_THREAT_INTELLIGENCE",
+                          "Subcategory":  "IOC_Analysis",
+                          "RelativePath":  "12_THREAT_INTELLIGENCE\\IOC_Analysis\\IOC\u0026IOA-SocNotes.pdf",
+                          "SizeMB":  "10.44",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-088",
+                          "Title":  "OSINT-TOOLKIT-SOC_NOTES",
+                          "FileName":  "OSINT-TOOLKIT-SOC_NOTES.pdf",
+                          "Category":  "12_THREAT_INTELLIGENCE",
+                          "Subcategory":  "IOC_Analysis",
+                          "RelativePath":  "12_THREAT_INTELLIGENCE\\IOC_Analysis\\OSINT-TOOLKIT-SOC_NOTES.pdf",
+                          "SizeMB":  "12.48",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-089",
+                          "Title":  "CyberKillChain-SocNotes",
+                          "FileName":  "CyberKillChain-SocNotes.pdf",
+                          "Category":  "12_THREAT_INTELLIGENCE",
+                          "Subcategory":  "MITRE_ATTACK",
+                          "RelativePath":  "12_THREAT_INTELLIGENCE\\MITRE_ATTACK\\CyberKillChain-SocNotes.pdf",
+                          "SizeMB":  "9.14",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-090",
+                          "Title":  "MITRE_att\u0026ck_for-Soc_Analyst-Notes",
+                          "FileName":  "MITRE_att\u0026ck_for-Soc_Analyst-Notes.pdf",
+                          "Category":  "12_THREAT_INTELLIGENCE",
+                          "Subcategory":  "MITRE_ATTACK",
+                          "RelativePath":  "12_THREAT_INTELLIGENCE\\MITRE_ATTACK\\MITRE_att\u0026ck_for-Soc_Analyst-Notes.pdf",
+                          "SizeMB":  "9.03",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-091",
+                          "Title":  "Cloud-Security_Notes",
+                          "FileName":  "Cloud-Security_Notes.pdf",
+                          "Category":  "13_CLOUD_SECURITY",
+                          "Subcategory":  "Cloud_Defense",
+                          "RelativePath":  "13_CLOUD_SECURITY\\Cloud_Defense\\Cloud-Security_Notes.pdf",
+                          "SizeMB":  "9.37",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-092",
+                          "Title":  "Cloud-Security-Projects",
+                          "FileName":  "Cloud-Security-Projects.pdf",
+                          "Category":  "13_CLOUD_SECURITY",
+                          "Subcategory":  "Cloud_Defense",
+                          "RelativePath":  "13_CLOUD_SECURITY\\Cloud_Defense\\Cloud-Security-Projects.pdf",
+                          "SizeMB":  "18.58",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-093",
+                          "Title":  "Tryhackme",
+                          "FileName":  "Tryhackme.pdf",
+                          "Category":  "14_PRACTICAL_LABS",
+                          "Subcategory":  "CTF_Labs",
+                          "RelativePath":  "14_PRACTICAL_LABS\\CTF_Labs\\Tryhackme.pdf",
+                          "SizeMB":  "0.4",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-094",
+                          "Title":  "SOC_Analyst_Projects_and_Certifications_Guide",
+                          "FileName":  "SOC_Analyst_Projects_and_Certifications_Guide.pdf",
+                          "Category":  "16_CAREER_SOC_RESOURCES",
+                          "Subcategory":  "Certifications",
+                          "RelativePath":  "16_CAREER_SOC_RESOURCES\\Certifications\\SOC_Analyst_Projects_and_Certifications_Guide.pdf",
+                          "SizeMB":  "0.01",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-095",
+                          "Title":  "Cybersecurity_Career_Roadmap",
+                          "FileName":  "Cybersecurity_Career_Roadmap.pdf",
+                          "Category":  "16_CAREER_SOC_RESOURCES",
+                          "Subcategory":  "Cybersecurity_Careers",
+                          "RelativePath":  "16_CAREER_SOC_RESOURCES\\Cybersecurity_Careers\\Cybersecurity_Career_Roadmap.pdf",
+                          "SizeMB":  "0",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-096",
+                          "Title":  "Cybersecurity_Career_Roadmap_2026",
+                          "FileName":  "Cybersecurity_Career_Roadmap_2026.pdf",
+                          "Category":  "16_CAREER_SOC_RESOURCES",
+                          "Subcategory":  "Cybersecurity_Careers",
+                          "RelativePath":  "16_CAREER_SOC_RESOURCES\\Cybersecurity_Careers\\Cybersecurity_Career_Roadmap_2026.pdf",
+                          "SizeMB":  "0.01",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-097",
+                          "Title":  "KaliLinux Carrier Guide",
+                          "FileName":  "KaliLinux Carrier Guide.pdf",
+                          "Category":  "16_CAREER_SOC_RESOURCES",
+                          "Subcategory":  "Cybersecurity_Careers",
+                          "RelativePath":  "16_CAREER_SOC_RESOURCES\\Cybersecurity_Careers\\KaliLinux Carrier Guide.pdf",
+                          "SizeMB":  "54.37",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-098",
+                          "Title":  "SOC ANALYST CARRIER GUIDE",
+                          "FileName":  "SOC ANALYST CARRIER GUIDE.pdf",
+                          "Category":  "16_CAREER_SOC_RESOURCES",
+                          "Subcategory":  "Cybersecurity_Careers",
+                          "RelativePath":  "16_CAREER_SOC_RESOURCES\\Cybersecurity_Careers\\SOC ANALYST CARRIER GUIDE.pdf",
+                          "SizeMB":  "27.88",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-099",
+                          "Title":  "ThePlacementFormulaCWS",
+                          "FileName":  "ThePlacementFormulaCWS.pdf",
+                          "Category":  "16_CAREER_SOC_RESOURCES",
+                          "Subcategory":  "Cybersecurity_Careers",
+                          "RelativePath":  "16_CAREER_SOC_RESOURCES\\Cybersecurity_Careers\\ThePlacementFormulaCWS.pdf",
+                          "SizeMB":  "0.15",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-100",
+                          "Title":  "Linux ",
+                          "FileName":  "Linux .pdf",
+                          "Category":  "16_CAREER_SOC_RESOURCES",
+                          "Subcategory":  "Interview_Preparation",
+                          "RelativePath":  "16_CAREER_SOC_RESOURCES\\Interview_Preparation\\Linux .pdf",
+                          "SizeMB":  "0.53",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-101",
+                          "Title":  "SOC (2)",
+                          "FileName":  "SOC (2).pdf",
+                          "Category":  "16_CAREER_SOC_RESOURCES",
+                          "Subcategory":  "Interview_Preparation",
+                          "RelativePath":  "16_CAREER_SOC_RESOURCES\\Interview_Preparation\\SOC (2).pdf",
+                          "SizeMB":  "1.86",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-102",
+                          "Title":  "SOC analyst tier 1 - candidate interview form",
+                          "FileName":  "SOC analyst tier 1 - candidate interview form.pdf",
+                          "Category":  "16_CAREER_SOC_RESOURCES",
+                          "Subcategory":  "Interview_Preparation",
+                          "RelativePath":  "16_CAREER_SOC_RESOURCES\\Interview_Preparation\\SOC analyst tier 1 - candidate interview form.pdf",
+                          "SizeMB":  "0.15",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-103",
+                          "Title":  "SOC interview questions ",
+                          "FileName":  "SOC interview questions .pdf",
+                          "Category":  "16_CAREER_SOC_RESOURCES",
+                          "Subcategory":  "Interview_Preparation",
+                          "RelativePath":  "16_CAREER_SOC_RESOURCES\\Interview_Preparation\\SOC interview questions .pdf",
+                          "SizeMB":  "1.86",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-104",
+                          "Title":  "SOC TIER 1 – Technical Interview Preparation _Guide",
+                          "FileName":  "SOC TIER 1 – Technical Interview Preparation _Guide.pdf",
+                          "Category":  "16_CAREER_SOC_RESOURCES",
+                          "Subcategory":  "Interview_Preparation",
+                          "RelativePath":  "16_CAREER_SOC_RESOURCES\\Interview_Preparation\\SOC TIER 1 – Technical Interview Preparation _Guide.pdf",
+                          "SizeMB":  "3.93",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-105",
+                          "Title":  "SOC",
+                          "FileName":  "SOC.pdf",
+                          "Category":  "16_CAREER_SOC_RESOURCES",
+                          "Subcategory":  "Interview_Preparation",
+                          "RelativePath":  "16_CAREER_SOC_RESOURCES\\Interview_Preparation\\SOC.pdf",
+                          "SizeMB":  "0.11",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-106",
+                          "Title":  "SOC-3",
+                          "FileName":  "SOC-3.pdf",
+                          "Category":  "16_CAREER_SOC_RESOURCES",
+                          "Subcategory":  "Interview_Preparation",
+                          "RelativePath":  "16_CAREER_SOC_RESOURCES\\Interview_Preparation\\SOC-3.pdf",
+                          "SizeMB":  "1.1",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-107",
+                          "Title":  "Cybersecurity Resources!",
+                          "FileName":  "Cybersecurity Resources!.pdf",
+                          "Category":  "17_TRUSTED_FREE_RESOURCES",
+                          "Subcategory":  "Official_Documentation",
+                          "RelativePath":  "17_TRUSTED_FREE_RESOURCES\\Official_Documentation\\Cybersecurity Resources!.pdf",
+                          "SizeMB":  "2.79",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-108",
+                          "Title":  "AI-for-Blueteamers",
+                          "FileName":  "AI-for-Blueteamers.pdf",
+                          "Category":  "18_REFERENCE_MATERIAL",
+                          "Subcategory":  "Other_References",
+                          "RelativePath":  "18_REFERENCE_MATERIAL\\Other_References\\AI-for-Blueteamers.pdf",
+                          "SizeMB":  "6.35",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-109",
+                          "Title":  "Bugtrace_Ai_for_BUGHunters",
+                          "FileName":  "Bugtrace_Ai_for_BUGHunters.pdf",
+                          "Category":  "18_REFERENCE_MATERIAL",
+                          "Subcategory":  "Other_References",
+                          "RelativePath":  "18_REFERENCE_MATERIAL\\Other_References\\Bugtrace_Ai_for_BUGHunters.pdf",
+                          "SizeMB":  "5.56",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-110",
+                          "Title":  "Cybersecurity_Notes-1",
+                          "FileName":  "Cybersecurity_Notes-1.pdf",
+                          "Category":  "18_REFERENCE_MATERIAL",
+                          "Subcategory":  "Other_References",
+                          "RelativePath":  "18_REFERENCE_MATERIAL\\Other_References\\Cybersecurity_Notes-1.pdf",
+                          "SizeMB":  "0.09",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-111",
+                          "Title":  "IDS \u0026 IPS for Blueteamers ",
+                          "FileName":  "IDS \u0026 IPS for Blueteamers .pdf",
+                          "Category":  "18_REFERENCE_MATERIAL",
+                          "Subcategory":  "Other_References",
+                          "RelativePath":  "18_REFERENCE_MATERIAL\\Other_References\\IDS \u0026 IPS for Blueteamers .pdf",
+                          "SizeMB":  "11.01",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-112",
+                          "Title":  "Pentration",
+                          "FileName":  "Pentration.pdf",
+                          "Category":  "18_REFERENCE_MATERIAL",
+                          "Subcategory":  "Other_References",
+                          "RelativePath":  "18_REFERENCE_MATERIAL\\Other_References\\Pentration.pdf",
+                          "SizeMB":  "0.12",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-113",
+                          "Title":  "Security = Awareness + Practice",
+                          "FileName":  "Security = Awareness + Practice.pdf",
+                          "Category":  "18_REFERENCE_MATERIAL",
+                          "Subcategory":  "Other_References",
+                          "RelativePath":  "18_REFERENCE_MATERIAL\\Other_References\\Security = Awareness + Practice.pdf",
+                          "SizeMB":  "19.35",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-114",
+                          "Title":  "SQL_Injection_Complete_Guide_With_Practical",
+                          "FileName":  "SQL_Injection_Complete_Guide_With_Practical.pdf",
+                          "Category":  "18_REFERENCE_MATERIAL",
+                          "Subcategory":  "Other_References",
+                          "RelativePath":  "18_REFERENCE_MATERIAL\\Other_References\\SQL_Injection_Complete_Guide_With_Practical.pdf",
+                          "SizeMB":  "1.08",
+                          "Extension":  ".pdf"
+                      },
+                      {
+                          "ResourceID":  "RES-115",
+                          "Title":  "The Hacker’s Underground Handbook",
+                          "FileName":  "The Hacker’s Underground Handbook.pdf",
+                          "Category":  "18_REFERENCE_MATERIAL",
+                          "Subcategory":  "Other_References",
+                          "RelativePath":  "18_REFERENCE_MATERIAL\\Other_References\\The Hacker’s Underground Handbook.pdf",
+                          "SizeMB":  "2.73",
+                          "Extension":  ".pdf"
+                      }
+                  ]
+}

@@ -1,0 +1,770 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Symbol /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /ZapfDingbats /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.kali.org/)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 690.4523 221.5003 699.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.kali.org/docs/)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 670.4523 203.1628 679.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.kali.org/docs/community/list-of-official-kali-sites/)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 649.8898 232.3378 658.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.kali.org/get-kali/)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 630.4523 206.0803 639.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.kali.org/docs/introduction/download-official-kali-linux-images/)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 609.8898 246.9178 618.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.kali.org/docs/virtualization/install-virtualbox-guest-vm/)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 590.4523 207.3328 599.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.kali.org/docs/virtualization/import-premade-virtualbox/)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 570.4523 243.1678 579.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.kali.org/docs/virtualization/install-virtualbox-guest-additions/)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 550.4523 227.3428 559.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.kali.org/docs/general-use/kali-training/)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 530.4523 179.8153 539.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://kali.training/)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 510.4523 252.3478 519.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.kali.org/tools/)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 490.4523 201.9028 499.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.kali.org/docs/general-use/metapackages/)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 470.4523 201.4978 479.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://video.infosec.exchange/c/kalilinux)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 450.4523 224.0053 459.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/presecurity)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 430.4523 219.4003 439.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/presecurity)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 410.4523 218.1703 419.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/presecurity)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 390.4523 247.7653 399.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/presecurity)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 370.4523 193.1578 379.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/cybersecurity101)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 350.4523 201.9103 359.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/cybersecurity101)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 330.4523 227.7628 339.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/cybersecurity101)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 310.4523 227.7628 319.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/cybersecurity101)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 290.4523 227.7628 299.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/cybersecurity101)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 270.4523 201.9103 279.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/cybersecurity101)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 250.4523 217.3228 259.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/cybersecurity101)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 230.4523 223.1728 239.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+30 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://overthewire.org/wargames/)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 210.4523 221.0653 219.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/presecurity)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 190.4523 222.7528 199.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/presecurity)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 170.4523 173.5678 179.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+33 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/presecurity)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 150.4523 204.4153 159.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+34 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/cybersecurity101)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 130.4523 209.4103 139.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+35 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/cybersecurity101)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 110.4523 211.9078 119.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+36 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/cybersecurity101)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 90.45226 227.3278 99.45226 ] /Subtype /Link /Type /Annot
+>>
+endobj
+37 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/cybersecurity101)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 70.45226 234.8353 79.45226 ] /Subtype /Link /Type /Annot
+>>
+endobj
+38 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/cybersecurity101)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 50.45226 213.1528 59.45226 ] /Subtype /Link /Type /Annot
+>>
+endobj
+39 0 obj
+<<
+/Annots [ 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 
+  16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 
+  26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 
+  36 0 R 37 0 R 38 0 R ] /Contents 92 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 91 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+40 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/cybersecurity101)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 773.4523 210.6628 782.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+41 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/cybersecurity101)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 753.4523 199.4053 762.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+42 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.wireshark.org/docs/)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 733.4523 223.1653 742.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+43 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://nmap.org/docs.html)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 713.4523 209.4178 722.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+44 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/cybersecurity101)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 693.4523 240.2653 702.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+45 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/cybersecurity101)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 673.4523 241.9303 682.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+46 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/cybersecurity101)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 653.4523 206.4928 662.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+47 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/cybersecurity101)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 633.4523 218.1628 642.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+48 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/cybersecurity101)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 613.4523 165.6478 622.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+49 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/cybersecurity101)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 593.4523 214.4203 602.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+50 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/presecurity)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 573.4523 206.4853 582.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+51 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/presecurity)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 553.4523 183.1453 562.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+52 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/presecurity)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 533.4523 186.8953 542.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+53 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/presecurity)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 513.4523 205.6453 522.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+54 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://portswigger.net/web-security/getting-started)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 493.4523 231.5128 502.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+55 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://portswigger.net/web-security/learning-paths)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 473.4523 231.5128 482.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+56 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://portswigger.net/web-security/essential-skills)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 453.4523 231.0778 462.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+57 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://portswigger.net/web-security/sql-injection)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 433.4523 199.0003 442.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+58 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://portswigger.net/web-security/cross-site-scripting)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 413.4523 220.2403 422.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+59 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://portswigger.net/web-security/authentication)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 393.4523 201.5053 402.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+60 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://portswigger.net/web-security/access-control)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 373.4523 204.4078 382.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+61 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://portswigger.net/web-security/file-path-traversal)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 353.4523 202.7428 362.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+62 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://portswigger.net/web-security/os-command-injection)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 333.4523 231.5053 342.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+63 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://portswigger.net/web-security/ssrf)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 313.4523 173.9803 322.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+64 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://portswigger.net/web-security/file-upload)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 293.4523 224.8303 302.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+65 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://portswigger.net/burp/documentation)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 273.4523 224.4328 282.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+66 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://portswigger.net/training)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 253.4523 199.8328 262.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+67 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://portswigger.net/web-security/getting-started#burp-suite-video-tutorials)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 233.4523 202.3303 242.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+68 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/cybersecurity101)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 213.4523 270.6703 222.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+69 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/hacktivities)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 193.4523 216.4753 202.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+70 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/jrpenetrationtester)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 173.4523 208.1653 182.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+71 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/offensivepentesting)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 153.4523 207.3403 162.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+72 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.autopsy.com/)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 133.4523 222.7453 142.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+73 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sleuthkit.org/autopsy/docs/user-docs/4.19.3/)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 113.4523 216.5128 122.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+74 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://volatilityfoundation.org/)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 93.45226 205.6678 102.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+75 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/soclevel1)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 73.45226 221.0728 82.45226 ] /Subtype /Link /Type /Annot
+>>
+endobj
+76 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/hacktivities)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 53.45226 231.4903 62.45226 ] /Subtype /Link /Type /Annot
+>>
+endobj
+77 0 obj
+<<
+/Annots [ 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 
+  50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 
+  60 0 R 61 0 R 62 0 R 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 
+  70 0 R 71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R ] /Contents 93 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 91 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+78 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://documentation.wazuh.com/)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 773.4523 212.7553 782.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+79 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://attack.mitre.org/)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 752.8898 195.2278 761.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+80 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.splunk.com/en_us/training.html)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 733.4523 190.2403 742.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+81 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/hacktivities)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 713.4523 261.9178 722.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+82 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/advancedendpointinvestigations)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 693.4523 251.1178 702.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+83 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/windowsincidentresponseandforensics)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 672.8898 274.4353 681.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+84 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tryhackme.com/path/outline/soclevel2)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 653.4523 180.6553 662.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+85 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://portswigger.net/web-security/all-labs)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 633.4523 205.2403 642.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+86 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://portswigger.net/web-security/all-topics)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 613.4523 211.0753 622.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+87 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://portswigger.net/web-security/learning-paths)
+>> /Border [ 0 0 0 ] /Rect [ 138.1378 593.4523 263.6128 602.4523 ] /Subtype /Link /Type /Annot
+>>
+endobj
+88 0 obj
+<<
+/Annots [ 78 0 R 79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R ] /Contents 94 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 91 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+89 0 obj
+<<
+/PageMode /UseNone /Pages 91 0 R /Type /Catalog
+>>
+endobj
+90 0 obj
+<<
+/Author (\(anonymous\)) /CreationDate (D:20260917124100+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260917124100+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+>>
+endobj
+91 0 obj
+<<
+/Count 3 /Kids [ 39 0 R 77 0 R 88 0 R ] /Type /Pages
+>>
+endobj
+92 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2715
+>>
+stream
+Gatn*hfIO1'$&o.=7"BFY;;K$+/It@qTq3A06^1X`bI9"kmL3P2J\.G8]m(]Y<S*m@)s,)'lg!?PQ;S&i4AtR];.b9<$0QfSZVtLc/J#P!22)R!9"S$o.0Si5Pb20FI%m'FN,Z6g%e>7:`%"B6@"'Tq@YTSlF9_Z;'<2W-q]t[#br&*_O7u!cQN!YZHV8W0/h]f_`qT/Qg2B[3Wsr\..48)%i)m8qB8Xu-2]8b+7nL+[@7*qVu'6=gj`7prV=K]E;jA\m8cJ[gAH!mkH3KAGkt!DS#(YiHBW4)i^'B$bIjk6:GSKX`A142P<3niXm<7G2-uS8SGeVJE`:J#2bBV.RW%%iSpej>+j[<S433=R/Z4nGV,q\Vl;;Aprq_d]pWKT1(DH4;dk7=kZ<NJu3WrOD?52(RS^_8r5s';c)%$]9A@iIC%AiiHPF!Kj$+_F^b>j!uSE:!VOtGGqbG8Ei]4>Iu<ru9&e7t5SKh1K'.B9gLB+Ki>U.j1^V"b8!f6&\R(#Y^l+@4FiW2J)9I7hZL"FdNWaC;]6A5b_61B4Q!TIuG@:cecFa^#'AO[6CWC9adH.lSTC$]lYs,YnK[pU,l_?Gfs2X1YHs?`5:#U8fTSd@g,>1o>XefQ7>1]f_9u+dil[nT3@_;Z!UnIH$YU140G,<5h5?iWh>Ao?iobf9[lJEB'M/Gl=a+nG_tAZ/^POj$dm`5;6F9AjQ=S]p\lHG]+A)5Mhmo%ueR+j2$e9#Od]Y5;jRq59B1DGd.0lY[c_0qW#DPN<ej3#<asdZp,W(fQbdBG`ZFq62KV-Nf=;.Ns@['*WrmPUN^ct0Uu5!CdlaQ9ibqoW`\?BlGe+`_`5--!bQH[X*&WM\%:$jpCDGk[od%+`PtXA79";+V?5%N0%YAp\-#a^\qaanW2daYN"OgI6(c&6p+kR&/6@[FBBM3*g3_?/#Lt;1dXhM-G5VMP\UU;^UQ^S18\0!LLQa>@;3Zum,.5Q#T#G!#fA[O:?`VsVW(B@&2"%G/b8tr>Nc:.ag#a4WWMb?[rW.-k8B37U?Da2=Db?J:C-Xb9&rn/hUH%4!:Z6Kq]9@Y6\8ZaB1Ytc`M4GKI2DMqsqlNl&fl7c)"4Dt#.)b\!Wr?2?&1(eA&2DrREE>'.Ul8o7;Ki!@mZK>oNS9$R<Q`">8Hpig\R.QaOad89<M+`o7SgiLh-jRHV<`$9O]/jds0)n&<H?u7_^A=DMl(5/4O8=_"&d,E.:^kQN]^1eoabN0Orc%IR[<[o=h^*WiI7P^dXZKhLdVN)BH't?4*C,t8Cp(n3cuAHOH6HM/6.7+MUPRg$!Y9MT*FpTYp;Z?7,.@ukK/jhIkYs/(QQqidd,MEW+u)RbOXfN%PT.p0dK(>7,.?ia$%Ploaf>Riph$LBFjLCH^rQg(Ip2I>Q#^MWV>aj-k0H.SASM^bS(t%s+#btl!iQ"q29J1a\lZL3&sH)'KNO#^S%,poAC9.W[C0D/k;H)#krkj>fpU]=^HumQK<9T72/*KJg&n`+q%8*,'=<lf&fPeY(&^,[0ZN*796-Xek,_jA2488U%#l1ptui:SL6h:rW.">,CCJ"p@H(tV@(\XaFK'pN,SnhZqYHF_E:-4oackb#%?O_1,$,]qk?jfDFsr=,2JK/4`GS4Kp;::L0HotiJKPY]CdmSShSD&B-kF7n`3$>esfj-Yh0XmdQUAB.YCl_f+3KGD:GVY-T[VaLU6tfj3VeZ(8\%_ML4qMl3JOn?:^(gOs>YPU^5E`E>Bg9*(>$2c,J4'\4`ha*KlHBV5"ml-pfsjMD.a:B._!?;<225V[frFq#LfDJ9W5D]FZ;o3%Q-D,RDp'ERl=U*'ncFma=/'E0I6CGX+WRLBtjaKH_O*4X&8H&#cf_U#R9TdZ=rPL^+7*J:o+369RW_oae"-#,1'BimNntBS^:,`@urh(d^A'6M3t`B-flm(fEMQjV$-UP1Fn>n19[\3C5G?Ta6ZT:QBPq"6usWkW"TMbDT%X=-1STWqgqb1,"CC_ioa_84!n6+eBtDq?PMQMi_p(\WP44]PTSL4pN?XNXuUh#_F;>P9WJ:`*&%\E?)N<''9$WHu"0mp+7`^Q%VNqTq5k1X3^?1rsGku5m0W4-UiigLpJ'Ej!aJ$eBbF:IQr,%*lKjf?l23A$mD2N+dsS"3eWH%aS"pj=NPCC!=ZesK4)J\&E"\&i#ipXc2rZX"34-!5)O[\S'4<X344!I&.CH&!ZR`\d*Q`t+6/_sS_"6PUgdU?8;G4hL)(%sGd='UR5/Es0ocs6DBGlNh;n.C],\Q;^sj8.8GKpdk`g/'m-rnPAb4\VehWLXlJW>++U"[`n4]!,p"UjJYBoU-(:8N\e/=W9H!!9qq)\2='un>kU(l-F;Ek'c.a*HgM!'/!eI\Gqe>ug'^X\sk:*rh/c=6pZ^VB\m18,:BS)<nBg=M;.^Qrin[Phure^@]Hg$Ps,QKCC5FEXq>b"XCq>,c54<blAP_jArqbVQR&8&ebDH&IWjaRU)aDis-51>X4u)`QW`jc(3th"&IE2f<p$`Z)D"ET<$_hO*iQ/8raWA!T&c]J7SK1Z"M\N>ZZYnj\TtC3cSo)n!=Uj,I7!W:<>/Dq'$,Q8`9c&^)+JhMC9Q(iR@`7Z998GpC<JZ+Lre1OD?Sm:=2PKYa+lR=<aWBtM43f?9bHGFLe):BulSSY>n/Bl./q1p,$3eN2I<2W)+=\+TnOrrWV+<tt~>endstream
+endobj
+93 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2531
+>>
+stream
+GatV"?#uJp'Sc)J.s/mVV@!++]m">A[+i\\C$]\L0*tYl)@Tr2e&f@3JW[#n(*'.?Uo*]C]]'[ci?0)7=M8\NDn8:!irYcW@Y>%kg`t$<)-U:=:Q(G::2h"0@AfJfVMOckl#\fq.SY>;M@!oOo_P\93%7hP7)Xnd$$oBV<(V33:@5*-l&XNVa/:^*:SnO@^?YpM^V>$Srku0fJ)X2sL\CK)J6q^5:%sG:pZ@!4m>o$HrkSMXs*4%<j2(W5K9%#`eit3lm!,c6nR,kIKCt91*BP=LIlurInY#j@6-"ujkoUEkG!&=qG`]2j62JV(Nu\bd59>(9Gi8Sk^gkDpi,U^OD!i;PkGKm\#b&,n+<;e.UZM\X(\S_MXAfn?UE]O>>5UG*?+`6i-UQudJ!\>q0&*Hd@D^)R[rPDbX&PfLZmaO/H9?b7RE>5cVK0"'*_.Zfj2u493s)>W*F>&^.^A$n2FtH6Hefl9h'tIpn=X!tr.m+$Iuj!:-o0JlHIoIgQ2Y%eSap%kPZ4u7O(N5>(?p.U?*4,pMarUf-CZQo/c2\WL\>mS\ZDSh]1K;>O2G8e^X=tJe,B9KOul0u3jq#p]sr-E45Gh.h#"NP``O%pXc"@R`P^8`Bpa$KIRJn53\g<5mUoSBc!sX7Tk0X0=0ecg3\-,;#Bar'#MnP,W,JNe3urAmP@[cW3:.B1p5.)/M:4ZIIHHN0:4SiJ!9XL/\`8'f44db\l."r;o5a9qra$A0lrg'n9Xe#&^S&?!\l'A;!B)_&'\8tk;cj:t:>nH]#gJBtdn)cI>f[I(i>`F@NX,VT6m,"2r.r<e-iH#F?G3H+ntA\,O"]],J._lQM1D6e!)UN7;:=Pr%(k<TIOMb[hW7o:r^jhse2">e5s>H6W'bnPe3UbX#1B<jNu2jtkXUgial`-d[JZD%!q)G+3$nWc"]D/>Nu3"#k!tQ;j^WjVFlR\8Xk0i[9j/$^#D^*I"5putiR-aWbZT105BqQ)J%,FUP]u>(=Zm4>#KI"'i.;&M_#n\n2(kD1#PZ-T`O@kM$?RHW,g-F?K7ebC5f!Jo@"FtY)ALJcKDC)Xb@5Gn23,NK^`\#4!'[VP4tt4dB=5Q<q4K(8R])^WQCE'+%X84+"bVng!D($.8\m54SFm*X,K3A[eaq\O_h4]%B3EiDZY3Ym<@sO>/m>dK0sHSI?8qW68`&L%H'HkqDJ+ruB0W\uF;0)eL]cVP1d%:n#P3S'mHKm0WhM6@-E/'l.)H82;?F9@5S4c&OY/lXcD#se;8bB_dq0h_3_OKMJ'.>0aMo'-@gofnJkH%\8H[Agj[\*/K2=e>beIMaiqJdU.pnOU4s,ee83p%WFO[OK'S$u<LmK_Yim.+IqVgPK.Q<jkF%$m%:TJ<f?6]IlJt?]@."I'Qbg8W!FSQMm(*qB?1EX'jDH]cn1kD6L+M:N)?7;HbTn,Jnng!S(7]7D*G)JfQ]PO0HjUh/O,b\V/:]O(#+A&LYM6e7sSg71o7>iX@QIR;_\H`0A"TsDZWY,r#%\hA0X@e9j3j.Z2]N_M$@QB;g"@Ne&-3sV`KEMp@BS&2O']MWEq>Bq!iYdOh"AB4*+9i,t#1:A.(+-t\(meAXd6Hs09U=n_2D8U+ggtb3B6)'^&31#`*!AM:&kEM,al+d>L`\W@DQ>X`Dju*?&^,.sKF\.(LQ3?VPTt_^l1-(XX@7pe5qEi<.`mRaLX?5m&-=27Nmu$f>D8U?SWPmn-XD0HS>?Mbj%8RuF45V<DsO],<SbHD`ZULR0M6FtD^gGD=jlD%_HDk+5F*k#QS1r,oX@6O06aES2N+%a`b8X($IGal0GOKd$pu(d@/sqZ+D8:`82r+5m)PO-T?UT24Tc7JiCbI6Z;cDVLr"Xul1-(X/5EDk@_Pn,7M\m-(u&94L"t1`)Xn9O>_4-B,oBIMi'=e[%2WZ&K)OW5s2Ki"Yu^9%dKRNi9e^,."9[qQ5b)MV33*]WR!_^5=`7Wn7J;hnWj]MjX2`>VV+qRu!+41Ve0LaFd-?""ImGU+[kV7;Jp7LqJemQN0Qak$Zd$0eiapl*10764%;dcAD6X5r#$WAk[dD0$M"<Mcn1M<Dc<Z;1Ecun[NiqHLbRs:;%Sd<9,QNc/1N']%M6ls_Zn5":%i)*D6+fh@rQ]tR"8I&h[cYB>WkVmgV`_sTJ^NHRmH9[3_U3;n1TXTg7+lD<BPr9I[H]s+D-[Ou/StuES)+"g['ISt^2>6mCMl&S*eY"=Fq9De3k3iumELjL?$j2kDkH=iG3e'WG.f_\,GoCtC5kr']PhY9(q+3s[S3al;-6H-*4)l>&4TArC;QnU98slJDQ.WN`[s&ce@;?pN>f:U\5D:P)Dc-P;I`1U=_c0Z0h[KD2.igBUW+iBC=K2Y7ZA=oe>Q6>Q5VVqe5E&2NEU)8W"D[^(c>d%&YhfH2.G'kV+-C^Z.-!T_j23!C=lG%7L`R:fVi4O%3%0@W>RGfN81%#ei9%*Yki:L^Rpd;:7=/IRl8-t!]9MqbX^.9bX+*)pT;nMXIb\OlhC+,:AtJJ;YMs~>endstream
+endobj
+94 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1422
+>>
+stream
+GatUt>B?8n'S,*>/'_)6gR6bd#_BT`Bd_U$2VkeOe'?8270,EB_;K?j2uDoB&dW#a%(:q2:l`gqT9,'5JL)qErW[.gG<X5h&0MD\$4rU;n8I:>TDY.N>14cRA@imBShouNKdY)4mgNW[/7A4<4\QJsK<YT5\F;uC1CgJ;_O%oW\(0l;/Z@cW"M4?]!-q*5+aU.QEnoPYqEt8U#.3E/0DbcoHc+P,[[6lA\,Np7;ieap1QUjI(IC:T7+a--?OJGpC/+*Q_#N)qoj;pe1"H!H:MEqN>ZpHnd3d(Zan)m`!Y0;@dnLMr2SaF^=Bl"1ch#&#[Z*toZqQ>u7B^iYP@eTBl<-_NdmD)g+n$PUUo&j#B[ufT(E)btF\$'H[p"3FUrl=(Mr2aX&eLaIEs2r:_0>T[q$:CIP\Zj)XGG<CM""DL*P=FsRuI*cRY7`Lr_E@$C7QY`@?`muDqTQbFG\Dm$i/2=+7A5\COV&C.96X7bud*B+8k4X>ku,)4+6f$j6m*JkU:n%"@&p^Xa%jLJ0-.0/gNu&Jp&e5En1nK[u&;h$2f`NM0KF5k`M1fr!SG",7&)8IsBiti3iP0\bW]_j?:/pkjX<(E6XI9o##,1o<XcJ=n)'?6dC<>Mi&<Y$&`0]!j\&ECUP*GMT6s\A!#[cBeR]J`FD$SH:rFP?C9;H0X&?+-<="Mf1EJDUSNDNaYV8$kWs'Fq#F$&4A'At8o#:*KnVtI("ro@4)8'u*[P7+bltdG/1Q3JeF/CTa5Ibh3m*XK$3jmaUKMmf:jU#)0.\ih_RP">l$;%DkP&r=T6Uk?3%m=](EL>M%eI99T]g^]p$k)HS6X#fHqC[(DAt`$n-n=4&KCd`Pa$W/[F45tg]gm9%uq'N]<II^6F,eWG?u<SJh,n:HN5'-K+<r2LW?"l0-aT<nZ4p)Q^*T%ViS/XSn_ZNMT5ab@p"a[H12uAA,K!tISOL8Kbb@gpV-Q81;aT<Rof9jH9mdt)"*hOoQAujA[TJ)&nPS?>Kd$bWO6MKoi2W`CNJ0BXJl\)c01NU>$89P\W(_AWn#6TXfkoT,O=J=5;6&7fkR=iO]"P=)C[D:%7aqs6VTCJ6u.AlZ'nKYUa?X-o5E&q3GOG;5uBGF9SO!Bb9Ya0ZV5fW]it84?0r91#rli"7B"u&+QHtZmb4si%Mm\Z=BOirZ/e3^(9aa3=D0_p<Qb'-\*^c1e>IhG?qc[l+'BQi]qX<+=(N""oo^9W:g;Sa9DAa8B\->9,:6B9'Pl_e9$2WZ\&VJ%gFabafV[>cg_3G+@XHN0Z.kKAAV21A:u[>bo(sG/HIFjqR7^4j,1;lSE;m#a2Q%olZ1?uV0-6m=`GZg:)iiWA1DU[%^s?u!-@gEHd`9ZiHn;'(f*-.BS);74LOul*l$clk8h=tZCPHAsa#<7J$(1W$3^)GD~>endstream
+endobj
+xref
+0 95
+0000000000 65535 f 
+0000000061 00000 n 
+0000000122 00000 n 
+0000000229 00000 n 
+0000000341 00000 n 
+0000000418 00000 n 
+0000000501 00000 n 
+0000000674 00000 n 
+0000000852 00000 n 
+0000001068 00000 n 
+0000001250 00000 n 
+0000001478 00000 n 
+0000001700 00000 n 
+0000001920 00000 n 
+0000002149 00000 n 
+0000002354 00000 n 
+0000002529 00000 n 
+0000002709 00000 n 
+0000002913 00000 n 
+0000003108 00000 n 
+0000003307 00000 n 
+0000003506 00000 n 
+0000003705 00000 n 
+0000003904 00000 n 
+0000004108 00000 n 
+0000004312 00000 n 
+0000004516 00000 n 
+0000004720 00000 n 
+0000004924 00000 n 
+0000005128 00000 n 
+0000005332 00000 n 
+0000005518 00000 n 
+0000005717 00000 n 
+0000005916 00000 n 
+0000006115 00000 n 
+0000006319 00000 n 
+0000006523 00000 n 
+0000006727 00000 n 
+0000006931 00000 n 
+0000007135 00000 n 
+0000007589 00000 n 
+0000007793 00000 n 
+0000007997 00000 n 
+0000008181 00000 n 
+0000008360 00000 n 
+0000008564 00000 n 
+0000008768 00000 n 
+0000008972 00000 n 
+0000009176 00000 n 
+0000009380 00000 n 
+0000009584 00000 n 
+0000009783 00000 n 
+0000009982 00000 n 
+0000010181 00000 n 
+0000010380 00000 n 
+0000010585 00000 n 
+0000010789 00000 n 
+0000010995 00000 n 
+0000011198 00000 n 
+0000011408 00000 n 
+0000011612 00000 n 
+0000011816 00000 n 
+0000012025 00000 n 
+0000012235 00000 n 
+0000012429 00000 n 
+0000012630 00000 n 
+0000012825 00000 n 
+0000013010 00000 n 
+0000013242 00000 n 
+0000013446 00000 n 
+0000013633 00000 n 
+0000013840 00000 n 
+0000014047 00000 n 
+0000014224 00000 n 
+0000014429 00000 n 
+0000014615 00000 n 
+0000014812 00000 n 
+0000014999 00000 n 
+0000015485 00000 n 
+0000015670 00000 n 
+0000015848 00000 n 
+0000016043 00000 n 
+0000016230 00000 n 
+0000016448 00000 n 
+0000016671 00000 n 
+0000016868 00000 n 
+0000017066 00000 n 
+0000017266 00000 n 
+0000017470 00000 n 
+0000017758 00000 n 
+0000017828 00000 n 
+0000018109 00000 n 
+0000018184 00000 n 
+0000020991 00000 n 
+0000023614 00000 n 
+trailer
+<<
+/ID 
+[<13827a9b4d848701775dd86ee257a67c><13827a9b4d848701775dd86ee257a67c>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 90 0 R
+/Root 89 0 R
+/Size 95
+>>
+startxref
+25128
+%%EOF

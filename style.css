@@ -1,0 +1,990 @@
+﻿/* =========================================================
+   SUDHEER.SEC — CINEMATIC RESOURCE LIBRARY
+   Dark Cyber Operations / SOC / DFIR Interface
+   ========================================================= */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Orbitron:wght@500;600;700;800&family=Rajdhani:wght@400;500;600;700&display=swap');
+
+:root{
+  --bg:#020406;
+  --bg-soft:#05090d;
+  --panel:rgba(7,12,17,.78);
+  --panel-strong:rgba(8,14,20,.94);
+
+  --line:rgba(92,116,130,.18);
+  --line-bright:rgba(0,229,255,.38);
+
+  --text:#e8f3f6;
+  --muted:#71838b;
+
+  --cyan:#00e5ff;
+  --green:#00ff9c;
+  --blue:#268cff;
+
+  --shadow:
+    0 20px 80px rgba(0,0,0,.55),
+    inset 0 1px 0 rgba(255,255,255,.025);
+}
+
+/* =========================================================
+   BASE
+   ========================================================= */
+
+*{
+  box-sizing:border-box;
+}
+
+html{
+  scroll-behavior:smooth;
+}
+
+body{
+  margin:0;
+  min-height:100vh;
+  color:var(--text);
+  background:#020406;
+  font-family:Inter,Arial,sans-serif;
+  overflow-x:hidden;
+  position:relative;
+}
+
+/* =========================================================
+   CINEMATIC BACKGROUND
+   ========================================================= */
+
+body::before{
+  content:"";
+  position:fixed;
+  inset:0;
+  z-index:-10;
+  pointer-events:none;
+
+  background:
+    radial-gradient(
+      circle at 50% -10%,
+      rgba(0,229,255,.10),
+      transparent 34%
+    ),
+    radial-gradient(
+      circle at 8% 55%,
+      rgba(0,255,156,.055),
+      transparent 28%
+    ),
+    radial-gradient(
+      circle at 92% 75%,
+      rgba(38,140,255,.045),
+      transparent 30%
+    ),
+    linear-gradient(
+      180deg,
+      #020406 0%,
+      #03070a 45%,
+      #010304 100%
+    );
+}
+
+/* Moving cinematic light */
+
+body::after{
+  content:"";
+  position:fixed;
+  width:70vw;
+  height:70vw;
+  left:50%;
+  top:20%;
+  transform:translate(-50%,-50%);
+
+  background:
+    radial-gradient(
+      circle,
+      rgba(0,229,255,.055) 0%,
+      rgba(0,229,255,.018) 25%,
+      transparent 65%
+    );
+
+  filter:blur(25px);
+  animation:
+    cinematicLight 12s ease-in-out infinite alternate;
+
+  pointer-events:none;
+  z-index:-9;
+}
+
+@keyframes cinematicLight{
+  0%{
+    transform:translate(-58%,-48%) scale(.85);
+    opacity:.55;
+  }
+
+  50%{
+    transform:translate(-42%,-55%) scale(1.15);
+    opacity:.85;
+  }
+
+  100%{
+    transform:translate(-50%,-42%) scale(.95);
+    opacity:.60;
+  }
+}
+
+/* =========================================================
+   CYBER GRID
+   ========================================================= */
+
+main{
+  position:relative;
+  z-index:1;
+}
+
+main::before{
+  content:"";
+  position:fixed;
+  inset:0;
+  pointer-events:none;
+  z-index:-5;
+
+  background-image:
+    linear-gradient(
+      rgba(0,229,255,.035) 1px,
+      transparent 1px
+    ),
+    linear-gradient(
+      90deg,
+      rgba(0,229,255,.035) 1px,
+      transparent 1px
+    );
+
+  background-size:
+    55px 55px;
+
+  mask-image:
+    radial-gradient(
+      ellipse at center,
+      black 0%,
+      rgba(0,0,0,.7) 45%,
+      transparent 90%
+    );
+
+  animation:gridMove 20s linear infinite;
+}
+
+@keyframes gridMove{
+  from{
+    transform:translate3d(0,0,0);
+  }
+
+  to{
+    transform:translate3d(55px,55px,0);
+  }
+}
+
+/* =========================================================
+   SCANLINES
+   ========================================================= */
+
+header,
+main{
+  isolation:isolate;
+}
+
+header::after{
+  content:"";
+  position:absolute;
+  left:0;
+  right:0;
+  bottom:-1px;
+  height:1px;
+
+  background:
+    linear-gradient(
+      90deg,
+      transparent,
+      var(--cyan),
+      transparent
+    );
+
+  opacity:.55;
+  animation:scanLine 5s ease-in-out infinite;
+}
+
+@keyframes scanLine{
+  0%,100%{
+    opacity:.15;
+    transform:scaleX(.3);
+  }
+
+  50%{
+    opacity:.8;
+    transform:scaleX(1);
+  }
+}
+
+/* =========================================================
+   HEADER
+   ========================================================= */
+
+header{
+  height:72px;
+  padding:0 5%;
+
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+
+  position:relative;
+
+  background:
+    linear-gradient(
+      180deg,
+      rgba(5,10,14,.92),
+      rgba(2,5,7,.72)
+    );
+
+  border-bottom:1px solid var(--line);
+
+  backdrop-filter:blur(18px);
+  -webkit-backdrop-filter:blur(18px);
+
+  box-shadow:
+    0 10px 40px rgba(0,0,0,.35);
+}
+
+.logo{
+  font-family:Orbitron,monospace;
+  font-size:21px;
+  font-weight:800;
+  letter-spacing:4px;
+
+  color:#edfaff;
+
+  text-shadow:
+    0 0 12px rgba(0,229,255,.22);
+}
+
+.logo span{
+  color:var(--cyan);
+
+  text-shadow:
+    0 0 12px rgba(0,229,255,.55),
+    0 0 30px rgba(0,229,255,.18);
+}
+
+.status{
+  font-family:Rajdhani,monospace;
+  font-size:11px;
+  letter-spacing:2px;
+  color:#81939b;
+}
+
+.status:first-letter{
+  color:var(--green);
+}
+
+/* =========================================================
+   MAIN
+   ========================================================= */
+
+main{
+  width:92%;
+  max-width:1500px;
+  margin:auto;
+}
+
+/* =========================================================
+   HERO
+   ========================================================= */
+
+.hero{
+  padding:90px 0 55px;
+  border-bottom:1px solid var(--line);
+  position:relative;
+}
+
+.hero::before{
+  content:"";
+  position:absolute;
+
+  width:240px;
+  height:240px;
+
+  top:30px;
+  right:8%;
+
+  border-radius:50%;
+
+  background:
+    radial-gradient(
+      circle,
+      rgba(0,229,255,.055),
+      transparent 68%
+    );
+
+  filter:blur(5px);
+
+  animation:heroPulse 7s ease-in-out infinite;
+}
+
+@keyframes heroPulse{
+  0%,100%{
+    transform:scale(.8);
+    opacity:.4;
+  }
+
+  50%{
+    transform:scale(1.25);
+    opacity:.8;
+  }
+}
+
+.eyebrow{
+  font-family:Rajdhani,monospace;
+  font-size:12px;
+  color:var(--cyan);
+  letter-spacing:3px;
+  text-transform:uppercase;
+
+  text-shadow:
+    0 0 10px rgba(0,229,255,.35);
+}
+
+h1{
+  position:relative;
+
+  font-family:Orbitron,monospace;
+  font-size:clamp(42px,7vw,88px);
+  line-height:.92;
+  letter-spacing:-4px;
+
+  margin:22px 0;
+
+  color:#edf7fa;
+
+  text-shadow:
+    0 0 30px rgba(0,229,255,.05);
+}
+
+h1 span{
+  color:var(--cyan);
+
+  text-shadow:
+    0 0 12px rgba(0,229,255,.45),
+    0 0 40px rgba(0,229,255,.14);
+}
+
+.hero p{
+  max-width:650px;
+
+  color:#7f9199;
+  font-size:15px;
+  line-height:1.8;
+}
+
+/* =========================================================
+   STATS
+   ========================================================= */
+
+.stats{
+  display:flex;
+  gap:12px;
+  margin-top:38px;
+  flex-wrap:wrap;
+}
+
+.stats div{
+  min-width:180px;
+
+  padding:17px 22px;
+
+  background:
+    linear-gradient(
+      135deg,
+      rgba(10,20,27,.82),
+      rgba(3,8,11,.76)
+    );
+
+  border:1px solid var(--line);
+
+  box-shadow:var(--shadow);
+
+  position:relative;
+  overflow:hidden;
+
+  transition:
+    transform .35s ease,
+    border-color .35s ease,
+    box-shadow .35s ease;
+}
+
+.stats div::before{
+  content:"";
+  position:absolute;
+
+  top:0;
+  left:-100%;
+  width:100%;
+  height:1px;
+
+  background:
+    linear-gradient(
+      90deg,
+      transparent,
+      var(--cyan),
+      transparent
+    );
+
+  transition:left .6s ease;
+}
+
+.stats div:hover{
+  transform:translateY(-4px);
+
+  border-color:rgba(0,229,255,.35);
+
+  box-shadow:
+    0 15px 45px rgba(0,0,0,.45),
+    0 0 25px rgba(0,229,255,.05);
+}
+
+.stats div:hover::before{
+  left:100%;
+}
+
+.stats b{
+  display:block;
+
+  font-family:Orbitron,monospace;
+  font-size:25px;
+
+  color:var(--cyan);
+
+  text-shadow:
+    0 0 12px rgba(0,229,255,.35);
+}
+
+.stats small{
+  font-family:Rajdhani,monospace;
+  font-size:10px;
+  letter-spacing:2px;
+  color:#687b83;
+}
+
+/* =========================================================
+   LIBRARY LAYOUT
+   ========================================================= */
+
+.library{
+  display:grid;
+  grid-template-columns:280px 1fr;
+  gap:25px;
+  padding:38px 0;
+}
+
+/* =========================================================
+   SIDEBAR
+   ========================================================= */
+
+aside{
+  background:
+    linear-gradient(
+      145deg,
+      rgba(8,15,20,.86),
+      rgba(3,7,10,.82)
+    );
+
+  border:1px solid var(--line);
+
+  padding:20px;
+
+  height:max-content;
+
+  box-shadow:
+    0 20px 70px rgba(0,0,0,.35),
+    inset 0 1px 0 rgba(255,255,255,.025);
+
+  backdrop-filter:blur(15px);
+  -webkit-backdrop-filter:blur(15px);
+
+  position:relative;
+}
+
+aside::before{
+  content:"";
+  position:absolute;
+
+  left:-1px;
+  top:20px;
+  bottom:20px;
+
+  width:1px;
+
+  background:
+    linear-gradient(
+      180deg,
+      transparent,
+      var(--cyan),
+      transparent
+    );
+
+  opacity:.65;
+}
+
+aside h3{
+  font-family:Rajdhani,monospace;
+  font-size:11px;
+  letter-spacing:2px;
+  color:#81949c;
+}
+
+/* =========================================================
+   BUTTONS
+   ========================================================= */
+
+button{
+  width:100%;
+
+  background:
+    linear-gradient(
+      90deg,
+      rgba(10,19,25,.9),
+      rgba(5,12,16,.9)
+    );
+
+  color:#9eafb5;
+
+  border:1px solid var(--line);
+
+  padding:11px 12px;
+  margin-bottom:6px;
+
+  text-align:left;
+
+  cursor:pointer;
+
+  font-family:Rajdhani,monospace;
+  letter-spacing:1px;
+
+  transition:
+    color .25s ease,
+    border-color .25s ease,
+    background .25s ease,
+    transform .25s ease;
+}
+
+button:hover{
+  color:var(--cyan);
+
+  border-color:rgba(0,229,255,.4);
+
+  background:
+    linear-gradient(
+      90deg,
+      rgba(0,229,255,.055),
+      rgba(0,229,255,.015)
+    );
+
+  transform:translateX(3px);
+
+  box-shadow:
+    inset 3px 0 0 var(--cyan),
+    0 0 18px rgba(0,229,255,.05);
+}
+
+/* =========================================================
+   CATEGORY TREE
+   ========================================================= */
+
+details{
+  border-top:1px solid var(--line);
+  padding:9px 0;
+}
+
+summary{
+  font-family:Rajdhani,monospace;
+  font-size:11px;
+  letter-spacing:1px;
+
+  cursor:pointer;
+  color:#c4d0d4;
+
+  transition:color .2s ease;
+}
+
+summary:hover{
+  color:var(--cyan);
+}
+
+.sub{
+  font-family:Rajdhani,monospace;
+  font-size:10px;
+
+  padding:7px 15px;
+
+  color:#71838b;
+
+  cursor:pointer;
+
+  transition:
+    color .2s ease,
+    padding-left .2s ease;
+}
+
+.sub:hover{
+  color:var(--green);
+  padding-left:20px;
+}
+
+/* =========================================================
+   SEARCH
+   ========================================================= */
+
+input{
+  width:100%;
+
+  padding:16px;
+
+  background:
+    rgba(3,8,11,.78);
+
+  border:1px solid var(--line);
+
+  color:#e8f3f6;
+
+  outline:none;
+
+  font-family:Rajdhani,monospace;
+  font-size:13px;
+  letter-spacing:1px;
+
+  margin-bottom:15px;
+
+  transition:
+    border-color .3s ease,
+    box-shadow .3s ease,
+    background .3s ease;
+}
+
+input::placeholder{
+  color:#52646c;
+}
+
+input:focus{
+  border-color:rgba(0,229,255,.5);
+
+  background:
+    rgba(0,229,255,.025);
+
+  box-shadow:
+    0 0 0 1px rgba(0,229,255,.08),
+    0 0 30px rgba(0,229,255,.05);
+}
+
+/* =========================================================
+   RESOURCE COUNT
+   ========================================================= */
+
+#count{
+  font-family:Rajdhani,monospace;
+  font-size:11px;
+  letter-spacing:2px;
+
+  color:#70828a;
+
+  margin-bottom:14px;
+}
+
+/* =========================================================
+   RESOURCE CARDS
+   ========================================================= */
+
+.card{
+  position:relative;
+  overflow:hidden;
+
+  border:1px solid var(--line);
+
+  background:
+    linear-gradient(
+      145deg,
+      rgba(8,15,20,.84),
+      rgba(3,7,10,.9)
+    );
+
+  padding:19px;
+
+  margin-bottom:11px;
+
+  box-shadow:
+    0 15px 45px rgba(0,0,0,.28),
+    inset 0 1px 0 rgba(255,255,255,.02);
+
+  transition:
+    transform .3s ease,
+    border-color .3s ease,
+    box-shadow .3s ease;
+}
+
+.card::before{
+  content:"";
+
+  position:absolute;
+
+  top:0;
+  left:-100%;
+
+  width:65%;
+  height:1px;
+
+  background:
+    linear-gradient(
+      90deg,
+      transparent,
+      var(--cyan),
+      transparent
+    );
+
+  transition:left .7s ease;
+}
+
+.card:hover{
+  transform:translateY(-3px);
+
+  border-color:
+    rgba(0,229,255,.3);
+
+  box-shadow:
+    0 20px 55px rgba(0,0,0,.42),
+    0 0 30px rgba(0,229,255,.035);
+}
+
+.card:hover::before{
+  left:120%;
+}
+
+.title{
+  font-size:15px;
+  font-weight:600;
+
+  color:#e9f5f7;
+
+  letter-spacing:.2px;
+}
+
+.meta{
+  font-family:Rajdhani,monospace;
+  font-size:10px;
+
+  color:#65777f;
+
+  margin:10px 0 15px;
+
+  letter-spacing:.7px;
+}
+
+/* =========================================================
+   RESOURCE ACTION BUTTONS
+   ========================================================= */
+
+.card a{
+  display:inline-block;
+
+  position:relative;
+  overflow:hidden;
+
+  text-decoration:none;
+
+  padding:9px 13px;
+
+  font-family:Rajdhani,monospace;
+  font-size:10px;
+  font-weight:600;
+
+  letter-spacing:1.5px;
+
+  margin-right:6px;
+
+  background:
+    rgba(4,12,16,.8);
+
+  transition:
+    transform .25s ease,
+    box-shadow .25s ease,
+    background .25s ease,
+    color .25s ease;
+}
+
+/* OPEN PDF */
+
+.card a:first-of-type{
+  color:var(--cyan);
+
+  border:1px solid rgba(0,229,255,.4);
+
+  box-shadow:
+    0 0 12px rgba(0,229,255,.04);
+}
+
+.card a:first-of-type:hover{
+  color:#001014;
+
+  background:var(--cyan);
+
+  border-color:var(--cyan);
+
+  box-shadow:
+    0 0 22px rgba(0,229,255,.35);
+
+  transform:translateY(-2px);
+}
+
+/* DOWNLOAD */
+
+.card a:last-of-type{
+  color:var(--green);
+
+  border:1px solid rgba(0,255,156,.35);
+
+  box-shadow:
+    0 0 12px rgba(0,255,156,.035);
+}
+
+.card a:last-of-type:hover{
+  color:#00140c;
+
+  background:var(--green);
+
+  border-color:var(--green);
+
+  box-shadow:
+    0 0 22px rgba(0,255,156,.3);
+
+  transform:translateY(-2px);
+}
+
+/* Button sweep */
+
+.card a::before{
+  content:"";
+
+  position:absolute;
+
+  top:0;
+  left:-120%;
+
+  width:70%;
+  height:100%;
+
+  background:
+    linear-gradient(
+      90deg,
+      transparent,
+      rgba(255,255,255,.18),
+      transparent
+    );
+
+  transform:skewX(-20deg);
+
+  transition:left .55s ease;
+}
+
+.card a:hover::before{
+  left:140%;
+}
+
+/* =========================================================
+   SCROLLBAR
+   ========================================================= */
+
+::-webkit-scrollbar{
+  width:7px;
+}
+
+::-webkit-scrollbar-track{
+  background:#020406;
+}
+
+::-webkit-scrollbar-thumb{
+  background:
+    linear-gradient(
+      180deg,
+      rgba(0,229,255,.5),
+      rgba(0,255,156,.35)
+    );
+
+  border-radius:10px;
+}
+
+::-webkit-scrollbar-thumb:hover{
+  background:var(--cyan);
+}
+
+/* =========================================================
+   SELECTION
+   ========================================================= */
+
+::selection{
+  background:rgba(0,229,255,.2);
+  color:#fff;
+}
+
+/* =========================================================
+   RESPONSIVE
+   ========================================================= */
+
+@media(max-width:800px){
+
+  header{
+    height:64px;
+    padding:0 4%;
+  }
+
+  .logo{
+    font-size:17px;
+    letter-spacing:3px;
+  }
+
+  .status{
+    font-size:9px;
+  }
+
+  main{
+    width:90%;
+  }
+
+  .hero{
+    padding:65px 0 45px;
+  }
+
+  h1{
+    font-size:clamp(38px,12vw,65px);
+    letter-spacing:-2px;
+  }
+
+  .library{
+    grid-template-columns:1fr;
+  }
+
+  aside{
+    width:100%;
+  }
+
+  .stats div{
+    flex:1;
+    min-width:140px;
+  }
+}
+
+/* =========================================================
+   REDUCE MOTION ACCESSIBILITY
+   ========================================================= */
+
+@media(prefers-reduced-motion:reduce){
+
+  *,
+  *::before,
+  *::after{
+    animation-duration:.01ms !important;
+    animation-iteration-count:1 !important;
+    scroll-behavior:auto !important;
+    transition-duration:.01ms !important;
+  }
+}
